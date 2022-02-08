@@ -16,7 +16,7 @@ Python's pandas library will be used to clean and harmonize the dataset.
 Final dataset will be uploaded to a MySQL database.
 
 Here is the 
-[notebook](ETLwithPython/ETL_using_Pandas.ipynb).
+[notebook](/ETLwithPython/ETL_using_Pandas.ipynb).
 
 
 ## Using PETL
@@ -34,4 +34,4 @@ PETL will be used to merge and clean two datasets into the final one.
 Final dataset will be uploaded to a MySQL database.
 
 Here is the
-[notebook](ETLwithPython/ETL_using_PETL.ipynb).
+[notebook](/ETLwithPython/ETL_using_PETL.ipynb).
