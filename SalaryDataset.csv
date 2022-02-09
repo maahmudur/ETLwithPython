@@ -1,0 +1,40 @@
+fact_code,month,line,line_code,name,unit,section,doj_string,desig_type_calc,designation,dob_string,basic,absent,absent_deduction,absent_halfday,adjust,advance,attendance,attendance_bonus,casual_leave,gender,grade,grocery_advance_deduction,grosspay,house_allowance,id,netpay,ot_amount,ot_hrs,ot_rate,payment_method,sick_leave,stamp,total_deduction,total_holidays,total_leave,weekend_holidays
+140105,Nov-17,24,1401024,Babul  Hossain,AKL,Sewing,12_May_2002,supervisor,Supervisor,19_November_1972,9501,4,1267,0,,0,21,0,0,M,2,,19001,3800,209,18024,0,0,,BANK,0,10,1277,6,0,5
+140105,Nov-17,2,1401002,Alep Sonar,AKL,Sewing,01_March_2017,operator,Operator,01_February_1983,4571,3,457,0,,0,22,0,0,M,4,,7500,1829,32876,10462,1802,41,,CASH,0,10,467,6,0,5
+140105,Nov-17,1,1401001,Mominur Rahaman,AKL,Sewing,01_March_2017,operator,Operator,25_April_1995,4800,0,0,0,,0,25,500,0,M,4,,7820,1920,32874,13156,2169,47,,CASH,0,10,10,6,0,5
+140105,Nov-17,36,1401036,Rupali  Begum,AKL,Sewing,25_February_2017,helper,Assistant Operator,10_February_1999,3000,0,0,0,,0,25,300,0,F,7,,5300,1200,32871,8505,1385,48,,CASH,0,10,10,6,0,5
+140105,Nov-17,32,1401032,Arzina  Begum,AKL,Sewing,23_February_2017,operator,Operator,10_December_1982,4643,0,0,0,,0,25,500,0,F,4,,7600,1857,32870,11349,2143,48,,CASH,0,10,10,6,0,5
+140105,Nov-17,17,1401017,Anowar  Hossain,AKL,Sewing,22_February_2017,helper,Assistant Operator,03_October_1998,3000,0,0,0,,0,25,0,0,M,7,,5300,1200,32866,8176,1385,48,,CASH,0,10,10,6,0,5
+140105,Nov-17,23,1401023,Hosna  Akter,AKL,Sewing,20_February_2017,operator,Operator,10_February_1985,4143,0,0,0,,0,25,500,0,F,4,,6900,1657,32861,11931,1912,48,,CASH,0,10,10,6,0,5
+140105,Nov-17,2,1401002,Omar Faruk Rana,AKL,Sewing,18_February_2017,helper,Assistant Operator,01_November_1990,3000,0,0,0,,0,25,300,0,M,7,,5300,1200,32858,8158,1356,47,,CASH,0,10,10,6,0,5
+140105,Nov-17,9,1401009,Lucky,AKL,Sewing,01_March_2017,operator,Operator,02_April_1983,4643,8,1238,0,,0,17,0,0,F,4,,7600,1857,32877,9387,1384,31,,CASH,0,10,1248,6,0,5
+140105,Dec-17,11,1401011,Masura,AKL,Sewing,19_February_2017,helper,Assistant Operator,19_March_1986,3000,0,0,0,,0,25,300,0,F,7,,5300,1200,32856,8158,1385,48,,CASH,0,10,10,6,0,5
+140105,Dec-17,12,1401012,Amina,AKL,Sewing,19_February_2017,operator,Junior Operator,05_January_1992,3571,0,0,0,,0,25,500,0,F,5,,6100,1429,32854,9715,1717,50,,CASH,0,10,10,6,0,5
+140105,Dec-17,14,1401014,Sarjina,AKL,Sewing,19_February_2017,helper,Assistant Operator,01_February_1990,3000,0,0,0,,0,16,0,10,F,7,,5300,1200,32853,7195,866,30,,CASH,0,10,10,5,10,4
+140105,Dec-17,39,1401039,Deluwara,AKL,Sewing,19_February_2017,operator,Operator,10_February_1989,4357,0,0,0,,0,25,500,0,F,4,,7200,1743,32850,11126,1844,44,,CASH,0,10,10,6,0,5
+140105,Dec-17,5,1401005,Jorna,AKL,Sewing,18_February_2017,helper,Assistant Operator,31_December_1997,3000,0,0,0,,0,25,300,0,F,7,,5300,1200,32845,8649,1443,50,,CASH,0,10,10,6,0,5
+140105,Dec-17,33,1401033,Oleda   Begum,AKL,Sewing,18_February_2017,operator,Operator,01_January_1978,3857,0,0,0,,0,25,500,0,F,4,,6500,1543,32840,10513,1780,48,,CASH,0,10,10,6,0,5
+140105,Dec-17,31,1401031,Mahibul   Islam,AKL,Finishing,18_February_2017,operator,Operator,20_November_1996,4071,0,0,0,,0,25,500,0,M,4,,6800,1629,32839,10814,1958,50,,CASH,0,10,10,6,0,5
+140105,Dec-17,31,1401031,Abdur Arosh,AKL,Finishing,18_February_2017,operator,Operator,19_September_1995,4929,0,0,0,,0,25,500,0,M,4,,8000,1971,32838,12756,2370,50,,CASH,0,10,10,6,0,5
+140105,Dec-17,7,1401007,Zimmi Akter,AKL,Finishing,19_February_2017,operator,General Operator,20_April_1996,3571,0,0,0,,0,25,500,0,F,6,,6100,1429,32855,9543,1717,50,,CASH,0,10,10,6,0,5
+140105,Dec-17,28,1401028,Hira   Moni,AKL,Finishing,18_February_2017,helper,Assistant Operator,07_March_1994,3000,0,0,0,,0,25,300,0,F,7,,5300,1200,32836,8649,1443,50,,CASH,0,10,10,6,0,5
+140105,Jan-18,10,1401010,Jesmin  Akter,AKL,Finishing,01_March_2017,operator,Operator,31_December_1992,4786,0,0,0,,0,25,500,0,F,4,,7800,1914,32879,12202,2301,50,,CASH,0,10,10,6,0,5
+140105,Jan-18,34,1401034,Yesmin  Akter,AKL,Finishing,01_March_2017,operator,General Operator,01_January_1996,3429,13,1486,0,,0,12,0,0,F,6,,5900,1371,32888,5558,659,20,,CASH,0,10,1496,6,0,5
+140105,Jan-18,13,1401013,Asma,AKL,Finishing,05_March_2017,helper,Assistant Operator,15_September_1988,3000,0,0,0,,0,25,300,0,F,7,,5300,1200,32970,8072,1385,48,,CASH,0,10,10,6,0,5
+140105,Jan-18,3,1401003,Selina   Khatun,AKL,Finishing,05_March_2017,operator,Operator,24_April_1996,3857,0,0,0,,0,25,500,0,F,4,,6500,1543,32968,10254,1780,48,,CASH,0,10,10,6,0,5
+140105,Jan-18,7,1401007,Lisa   Moni,AKL,Finishing,04_March_2017,helper,Assistant Operator,15_October_1998,3000,0,0,0,,0,25,300,0,F,7,,5300,1200,32963,8360,1385,48,,CASH,0,10,10,6,0,5
+140105,Jan-18,38,1401038,Sumi  Akter,AKL,Finishing,04_March_2017,operator,Operator,07_February_1991,3929,0,0,0,,0,25,500,0,F,4,,6600,1571,32957,11434,1889,50,,CASH,0,10,10,6,0,5
+140105,Jan-18,24,1401024,Abdur  Razzak,AKL,Sewing,05_March_2017,operator,Operator,15_August_1995,4571,0,76,1,,0,24.5,400,0,M,4,,7500,1829,32956,11375,1934,44,,CASH,0,10,86,6,0,5
+140105,Jan-18,11,1401011,Morjina  Khatun,AKL,Sewing,04_March_2017,operator,Operator,02_February_1991,4286,0,0,0,,0,25,500,0,F,4,,7100,1714,32951,11134,1978,48,,CASH,0,10,10,6,0,5
+140105,Jan-18,5,1401005,Shajahan  Miah,AKL,Sewing,04_March_2017,operator,Operator,15_March_1986,4929,0,82,1,,0,24.5,400,0,M,4,,8000,1971,32950,11862,2038,43,,CASH,0,10,92,6,0,5
+140105,Jan-18,17,1401017,Lily Begum,AKL,Sewing,01_March_2017,operator,Operator,11_April_1985,4357,0,0,0,,0,25,500,0,F,4,,7200,1743,32881,11461,2011,48,,CASH,0,10,10,6,0,5
+140105,Feb-18,2,1401002,Najma  Akter,AKL,Sewing,04_March_2017,operator,Operator,10_May_1991,4571,0,76,1,,0,24.5,400,0,F,4,,7500,1829,32948,11550,1890,43,,CASH,0,10,86,6,0,5
+140105,Feb-18,19,1401019,Azizul Islam,AKL,Sewing,02_March_2017,operator,Operator,20_September_1987,5000,0,0,0,,0,25,500,0,M,4,,8100,2000,32929,13302,2308,48,,CASH,0,10,10,6,0,5
+140105,Feb-18,17,1401017,Mamun,AKL,Sewing,02_March_2017,operator,Operator,15_October_1994,4500,4,600,0,,0,21,0,0,M,4,,7400,1800,32928,9689,1644,38,,CASH,0,10,610,6,0,5
+140105,Feb-18,36,1401036,Shahina  Khatun,AKL,Sewing,01_March_2017,helper,Assistant Operator,31_December_1988,3000,0,0,0,,0,25,300,0,F,7,,5300,1200,32921,8303,1443,50,,CASH,0,10,10,6,0,5
+140105,Feb-18,35,1401035,Arifa  Begum,AKL,Sewing,01_March_2017,helper,Assistant Operator,27_March_1997,3000,2,250,1,,0,22.5,0,0,F,7,,5300,1200,32920,7233,1212,42,,CASH,0,10,260,6,0,5
+140105,Feb-18,16,1401016,Yamin Islam,AKL,Sewing,01_March_2017,helper,Assistant Operator,07_March_1996,3000,0,0,0,,0,25,300,0,M,7,,5300,1200,32915,8389,1443,50,,CASH,0,10,10,6,0,5
+140105,Feb-18,4,1401004,Jesmin,AKL,Sewing,01_March_2017,helper,Assistant Operator,13_May_1995,3000,0,0,0,,0,25,300,0,F,7,,5300,1200,32910,8245,1443,50,,CASH,0,10,10,6,0,5
+140105,Feb-18,38,1401038,Shahinur  Akter,AKL,Sewing,01_March_2017,operator,General Operator,05_June_1991,3714,0,62,1,,0,24.5,400,0,F,6,,6300,1486,32890,9913,1714,48,,CASH,0,10,72,6,0,5
+140105,Feb-18,2,1401002,Halima  Begum,AKL,Sewing,02_March_2017,helper,Assistant Operator,25_August_1991,3000,0,0,0,,0,25,300,0,F,7,,5300,1200,32930,8505,1443,50,,CASH,0,10,10,6,0,5
+140105,Feb-18,13,1401013,Sabina,AKL,Sewing,16_February_2017,helper,Assistant Operator,05_May_1994,3000,0,0,0,,0,25,300,0,F,7,,5300,1200,32827,8505,1443,50,,CASH,0,10,10,6,0,5
