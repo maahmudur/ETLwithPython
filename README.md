@@ -25,7 +25,7 @@ Here is the
 We will use a salary data collected from a ready made garments factory.
 
 * Extraction:<br>
-Data will be extraced from a local folder containing raw excel files provided by the factory..
+We usually extract the final dataset from folders containing raw excel files provided by factories but in this notebook we will just upload a cleaned pickled version. I will soon edit this notebook with a full extraction process and code. 
 
 * Transformation:<br>
 Python's pandas library will be used to clean and harmonize the dataset.
