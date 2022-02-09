@@ -1,22 +1,6 @@
 # ETL with Python
 Example notebooks to demonstrate ETL (Extraction, Transform and Load) process using Python.
 </br>
-## Using Pandas
-
-* Source Data:<br>
-We will use a salary data collected from a ready made garments factory.
-
-* Extraction:<br>
-Data will be extraced from a local folder containing raw excel files provided by the factory..
-
-* Transformation:<br>
-Python's pandas library will be used to clean and harmonize the dataset.
-
-* Loading:<br>
-Final dataset will be uploaded to a MySQL database.
-
-Here is the 
-[notebook](ETL_using_Pandas.ipynb).
 
 ## Using PETL
 
@@ -34,3 +18,20 @@ Final dataset will be uploaded to a MySQL database.
 
 Here is the 
 [notebook](ETL_using_PETL.ipynb).
+
+## Using Pandas
+
+* Source Data:<br>
+We will use a salary data collected from a ready made garments factory.
+
+* Extraction:<br>
+Data will be extraced from a local folder containing raw excel files provided by the factory..
+
+* Transformation:<br>
+Python's pandas library will be used to clean and harmonize the dataset.
+
+* Loading:<br>
+Final dataset will be uploaded to a MySQL database.
+
+Here is the 
+[notebook](ETL_using_Pandas.ipynb).
